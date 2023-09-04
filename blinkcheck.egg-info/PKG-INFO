@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: blinkcheck
+Version: 0.0.1
+Summary: This repository contains a Python program designed to execute Optical Character Recognition (OCR) and Facial Recognition on images.
+Home-page: 
+Author: Nabila Lasri
+Author-email: lasri.nabilait@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# liveness_blink_check
+
+face liveness blink detection activate, the script asks the person to generate an action, for example the action can be to blink eyes. after fulfilling all the actions it generates a message saying "liveness successful" or "liveness fail".
+
+
+# How to install:
+
+<pre><code>pip install -r requirements.txt </code></pre>
+
+<pre><code>python liveness_smile_detection.py </code></pre>

@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+blinkcheck.egg-info/PKG-INFO
+blinkcheck.egg-info/SOURCES.txt
+blinkcheck.egg-info/dependency_links.txt
+blinkcheck.egg-info/requires.txt
+blinkcheck.egg-info/top_level.txt
